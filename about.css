@@ -1,0 +1,25 @@
+h1{text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;}
+    
+    body{border-style: solid;
+    border-color: black;
+    background-color:#AAA738;}
+    
+    h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+    h4{text-align: center;}
+
+    video{padding: 110px;
+            width: 80%;
+            height: 50%;}
+
+p{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    
+    td a:link{color: antiquewhite;}
+    td a:visited{color:black;}
+    td a:hover{color: yellow;}
+    td a:active{color:chartreuse;}
+    

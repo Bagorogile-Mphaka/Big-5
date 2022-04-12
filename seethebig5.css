@@ -1,0 +1,15 @@
+h1{text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;}
+
+body{background-color: #AAA738 ;
+border-style:solid;
+border-color: black;}
+
+td a:link{color: antiquewhite;}
+    td a:visited{color:black;}
+    td a:hover{color: yellow;}
+    td a:active{color:chartreuse;}
+p{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
